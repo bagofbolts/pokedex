@@ -4,7 +4,7 @@ This web application serves as a very rudimentary [PokeDex](https://bulbapedia.b
 
 Check out the [demo](https://bagofbolts.shinyapps.io/PokeDex/)!
 
-Check out the pitch!
+Check out the [pitch](https://bagofbolts.github.io/pokedex/presentation#/)!
 
 ## Data
 
